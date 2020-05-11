@@ -1,0 +1,28 @@
+.heading{
+    font-size:50px;
+}
+.space{
+    margin: 50px;
+}
+.form{
+    background-color:#151B54;
+    height: 150px;
+    padding-top: 50px;
+    padding-left: 75px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+li{
+    list-style-type: none;
+}
+li>a:link{
+    color: black;
+}
+.form2{
+     background-color:#151B54;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
